@@ -4,7 +4,7 @@ import sys
 def ascii_input(external_file):
   f = open(external_file)
   size = f.readline() # obtain the size parameters for the canvas (infinitely large grid with rectangle filled with periods).
-  size = size.split(' ')
+  size = size.split()
   if not size[0].isdigit() or not size[1].isdigit():
     print("Error. One or both of the canvas size parameters specified in the .tvg file are not integers. Please fix and try again.")
     return
