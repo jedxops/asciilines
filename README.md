@@ -11,13 +11,14 @@ the values will be written horizontally or vertically and how many characters wi
 Build and Run
 
 Nothing is required to build the program as it is written in python3 and interpreted with the standard interpreter.
-To run the program, enter the directory on the command line containing `sol.py` and press enter after typing the following:
+To run the program (assuming you have python version 3.5 or greater), enter the directory on the command line 
+containing `sol.py` and press enter after typing the following:
 
-...............................
+........................................
 $ python3 sol.py yourExternalFyle.tvg
-...............................
+........................................
 
-Where `yourExternalFyle.tvg` is a .tvg file provided in the `tests` directory, or a newly created one.
+Where `yourExternalFyle.tvg` is a .tvg file provided in the `tests` directory, or a newly created one (properly formatted according to the assignment description).
 
 Bugs
 

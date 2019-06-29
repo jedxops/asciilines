@@ -1,6 +1,6 @@
 import sys
 
-# read ext file info, manipulate canvas, and print results.
+# read text file info, manipulate canvas, and print results.
 def ascii_input(external_file):
   f = open(external_file)
   size = f.readline() # obtain the size parameters for the canvas (infinitely large grid with rectangle filled with periods).
