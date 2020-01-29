@@ -22,7 +22,7 @@ Where `yourExternalFyle.tvg` is a .tvg file provided in the `tests` directory, o
 
 Bugs
 
-No bugs, failures, or incomplete behavior promted by testing environments is aware of at this time.
+No bugs, failures, or incomplete behavior promted by testing environments are/is aware of at this time.
 Incomplete and illformatted tvg files are known to cause bahavioral faults in the form of the program panicking.
 
 License
