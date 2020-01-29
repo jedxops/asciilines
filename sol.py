@@ -67,7 +67,6 @@ def ascii_input(external_file):
           i += 1
           k += 1
         k = 0
-#    print(canvas)
     command = f.readline()
   i = 0
   j = 0
